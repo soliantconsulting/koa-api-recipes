@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "jwks-rsa": "^3.1.0",
+        "koa-jwt": "^4.0.4"
+    }
+}
